@@ -70,7 +70,7 @@ To get started with the Budget App, follow the instructions below:
 1. Clone the project repository:
 
    ```bash
-   git clone https://github.com/sadaf-Daneshgar/budget_app.git
+   git clone https://github.com/evansnyamekye/budget-app.git
     ```
 2. Navigate to the project folder:
 
