@@ -126,10 +126,10 @@ Open your web browser and go to http://localhost:3000 to access the Budget App.
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome! 
-Feel free to check the issues [page](https://github.com/sadaf-Daneshgar/budget_app/issues) and contribute to the project.
+Feel free to check the issues [page](https://github.com/evansnyamekye/budget-app/issues/3) and contribute to the project.
 
 ## ⭐️ Show Your Support <a name="support"></a>
-If you like this project, kindly drop a start ⭐️ for the [repository](https://github.com/sadaf-Daneshgar/budget_app);
+If you like this project, kindly drop a start ⭐️ for the [repository](https://github.com/evansnyamekye/budget-app.git);
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
