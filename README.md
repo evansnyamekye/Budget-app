@@ -1,4 +1,3 @@
-<h1 align="center">Budget-App💰</h1>
 
 ## 📗 Table of Contents
 
