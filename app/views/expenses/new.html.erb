@@ -7,12 +7,12 @@
 <div class='category-list'>
 <div class="form">
   <%= form_with(model: [@user, @category, @expense], local: true) do |f| %>
-  <div class='cte'>
+  <div>
     <%= f.label :name %> <br />
     <%= f.text_field :name, autocomplete: "off" %>
   </div>
     
-  <div class='cte'>
+  <div>
     <%= f.label :amount %> <br />
     <%= f.text_field :amount %> 
   </div>
