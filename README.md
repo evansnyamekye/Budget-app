@@ -49,7 +49,7 @@ This is a budget app that allows users to track their expenses and incomes. User
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
+- ✅ Click [here](https://budget-app-brod-3m1vwekwn-evansnyamekye.vercel.app) to see the project
 - ✅ Click [here](https://drive.google.com/file/d/1lHiQM6x04fG_AEybiHafFZ7hWyFtl74m/view?usp=sharing) to see the video presentation.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
