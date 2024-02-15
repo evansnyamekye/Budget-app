@@ -49,9 +49,8 @@ This is a budget app that allows users to track their expenses and incomes. User
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-- ✅ Click [here](https://budget-app-zipl.onrender.com) to see the project
-- ✅ Click [here](https://drive.google.com/file/d/1gBibLP7Bis7F4Y52T1bZ00zUceLGL6ti/view?usp=sharing) to see the video presentation.
+- ✅ Click [here](https://budget-app-7431.onrender.com/) to see the project
+- ✅ Click [here](https://drive.google.com/file/d/1lHiQM6x04fG_AEybiHafFZ7hWyFtl74m/view?usp=sharing) to see the video presentation.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -66,7 +65,6 @@ This is a budget app that allows users to track their expenses and incomes. User
 To get started with the Budget App, follow the instructions below:
 
 ### 🛠 Setup <a name="setup"></a>
-
 1. Clone the project repository:
 
    ```bash
@@ -86,7 +84,6 @@ Before you can run the Budget App, make sure you have the following prerequisite
   ```
   gem install rails
   ```
-
 - **Code Editor**: You should have a code editor like Visual Studio Code (VSCode) installed. You can download VSCode from the [official website](https://code.visualstudio.com/).
 
 - **Git**: Git is essential for version control. Make sure you have Git installed and configured on your system. You can download Git from the [official Git website](https://git-scm.com/downloads).
@@ -101,9 +98,7 @@ With these prerequisites and configurations in place, you'll be ready to set up 
 Follow these steps to use the Blog App:
 
 Open your terminal.
-
 Navigate to the directory where the project files are located:
-
 Copy code
 ```bash
 cd /path/to/your/project/files
@@ -157,5 +152,3 @@ This project is [MIT](./LICENSE) licensed.
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-
-* ...
