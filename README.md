@@ -36,7 +36,7 @@ This is a budget app that allows users to track their expenses and incomes. User
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-- ✅ Click [here](https://budget-app-7431.onrender.com/) to see the project
+- ✅ Click [here](https://budget-application-2kkv.onrender.com) to see the project
 - ✅ Click [here](https://drive.google.com/file/d/1lHiQM6x04fG_AEybiHafFZ7hWyFtl74m/view?usp=sharing) to see the video presentation.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -119,7 +119,7 @@ If you like this project, kindly drop a start ⭐️ for the [repository](https:
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-**I would like to thank the following individuals and organizations for their contribution to this project.**
+**I would like to thank all my coding partners, it has really been a great Journey. I say thank you and wish you all the best in every steop of your software development carrerr.**
 
 - I would like to express my heartfelt gratitude to [**Microverse**](https://www.microverse.org/?grsf=mohammad-a-nbtazu) for the invaluable learning experience they have provided.
 
