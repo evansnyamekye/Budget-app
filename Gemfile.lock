@@ -111,8 +111,6 @@ GEM
     drb (2.2.0)
       ruby2_keywords
     erubi (1.12.0)
-    font-awesome-rails (4.7.0.8)
-      railties (>= 3.2, < 8.0)
     globalid (1.2.1)
       activesupport (>= 6.1)
     i18n (1.14.1)
@@ -302,8 +300,7 @@ DEPENDENCIES
   bootsnap
   capybara
   debug
-  devise (~> 4.8)
-  font-awesome-rails
+  devise
   importmap-rails
   jbuilder
   pg

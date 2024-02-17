@@ -36,8 +36,9 @@ This is a budget app that allows users to track their expenses and incomes. User
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-- ✅ Click [here](https://budget-application-2kkv.onrender.com) to see the project
-- ✅ Click [here](https://drive.google.com/file/d/1lHiQM6x04fG_AEybiHafFZ7hWyFtl74m/view?usp=sharing) to see the video presentation.
+
+- ✅ Click [here](https://budget-app-zipl.onrender.com) to see the project
+- ✅ Click [here](https://drive.google.com/file/d/1gBibLP7Bis7F4Y52T1bZ00zUceLGL6ti/view?usp=sharing) to see the video presentation.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -52,10 +53,11 @@ This is a budget app that allows users to track their expenses and incomes. User
 To get started with the Budget App, follow the instructions below:
 
 ### 🛠 Setup <a name="setup"></a>
+
 1. Clone the project repository:
 
    ```bash
-   git clone https://github.com/evansnyamekye/budget-app.git
+   git clone https://github.com/sadaf-Daneshgar/budget_app.git
     ```
 2. Navigate to the project folder:
 
@@ -71,6 +73,7 @@ Before you can run the Budget App, make sure you have the following prerequisite
   ```
   gem install rails
   ```
+
 - **Code Editor**: You should have a code editor like Visual Studio Code (VSCode) installed. You can download VSCode from the [official website](https://code.visualstudio.com/).
 
 - **Git**: Git is essential for version control. Make sure you have Git installed and configured on your system. You can download Git from the [official Git website](https://git-scm.com/downloads).
@@ -85,7 +88,9 @@ With these prerequisites and configurations in place, you'll be ready to set up 
 Follow these steps to use the Blog App:
 
 Open your terminal.
+
 Navigate to the directory where the project files are located:
+
 Copy code
 ```bash
 cd /path/to/your/project/files
@@ -108,10 +113,10 @@ Open your web browser and go to http://localhost:3000 to access the Budget App.
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome! 
-Feel free to check the issues [page](https://github.com/evansnyamekye/budget-app/issues/3) and contribute to the project.
+Feel free to check the issues [page](https://github.com/sadaf-Daneshgar/budget_app/issues) and contribute to the project.
 
 ## ⭐️ Show Your Support <a name="support"></a>
-If you like this project, kindly drop a start ⭐️ for the [repository](https://github.com/evansnyamekye/budget-app.git);
+If you like this project, kindly drop a start ⭐️ for the [repository](https://github.com/sadaf-Daneshgar/budget_app);
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,7 +124,7 @@ If you like this project, kindly drop a start ⭐️ for the [repository](https:
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-**I would like to thank all my coding partners, it has really been a great Journey. I say thank you and wish you all the best in every steop of your software development carrerr.**
+**I would like to thank the following individuals and organizations for their contribution to this project.**
 
 - I would like to express my heartfelt gratitude to [**Microverse**](https://www.microverse.org/?grsf=mohammad-a-nbtazu) for the invaluable learning experience they have provided.
 
@@ -139,3 +144,5 @@ This project is [MIT](./LICENSE) licensed.
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
+
+* ...
