@@ -1,5 +1,4 @@
 class CategoriesController < ApplicationController
-
   def index
     @categories = current_user.categories
   end
@@ -24,5 +23,4 @@ class CategoriesController < ApplicationController
   def category_params
     params.require(:category).permit(:name, :icon)
   end
-
 end
