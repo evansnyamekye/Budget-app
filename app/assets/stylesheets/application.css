@@ -212,6 +212,10 @@ img {
   height: 100px;
 }
 
+.error {
+  color: red;
+}
+
 .form {
   width: 350px;
   margin: 20px auto;
