@@ -6,6 +6,6 @@ class Expense < ApplicationRecord
   accepts_nested_attributes_for :categories_expenses
 
   validates :name, presence: true
-  validates :amount, presence: true
   validates :author_id, presence: true
+  validates :amount, presence: true, numericality: true
 end
