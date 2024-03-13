@@ -5,7 +5,7 @@
 </header>
   <div class="category-list">
     <% @categories.each do |category| %>
-     <%= link_to user_category_expenses_path(@user, category), class: "category-link" do %>
+     <%= link_to category_expenses_path(category), class: "category-link" do %>
       <div class="category">
         <div class="category-icon">
           <img src="<%= category.icon %>" alt="<%= category.name %>">
@@ -21,6 +21,6 @@
     <% end %>
     <% end %>
   </div>
- <%= link_to new_user_category_path(@user), class: "add-category" do %>
+ <%= link_to new_category_path, class: "add-category" do %>
   <span>Add Category</span>
 <% end %>
